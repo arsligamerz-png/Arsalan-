@@ -1,0 +1,7 @@
+{
+  "name": "Copy of ARSALAN AI",
+  "description": "A smart, voice-enabled AI assistant with a friendly personality, providing expert knowledge on tech, gaming, and life advice in a mix of Roman Urdu and English. Features include chat memory, different personality modes, and a sleek dark gold interface.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
